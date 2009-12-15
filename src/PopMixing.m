@@ -4,6 +4,7 @@ function newpop = PopMixing(ga)
 %   ga tructure
 % Output:
 %   newpop
+% Modified: 2009-12-15
 
 newpop = zeros(ga.popsize,ga.lchrom);
 popbuf = ga.pop;

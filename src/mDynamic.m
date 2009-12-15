@@ -11,6 +11,7 @@ function newpop = mDynamic(ga,b)
 %   Fourth International Conference on Genetic Algorithms (1991), pp. 31–36
 %   [2] Z. Michalewicz, Genetic Algorithms + Data Structures = Evolution
 %   Programs, Springer-Verlag (1992)
+% Modified: 2009-12-15
 
 scheme = 2;
 switch scheme

@@ -2,6 +2,7 @@ function MainRCGA
 % Main program to implement real-coded genetic algorithms
 % Notes: ver. 2
 %   function handle is NOT used, test functions are now stored in TestBed.m
+% Modified: 2009-12-15
 
 clc
 clear all

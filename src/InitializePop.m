@@ -4,6 +4,7 @@ function newpop = InitializePop(ga)
 %   ga tructure
 % Output:
 %   newpop
+% Modified: 2009-12-15
 
 % rand('seed', ga.randseed);
 newpop = zeros(ga.popsize,ga.lchrom);

@@ -9,6 +9,7 @@ function [newpop, gp] = sPseudoGradient(ga,gp)
 %   [1] J. Y. Wen, Q. H. Wu, L. Jiang, and S. J. Cheng, "Pseudo-gradient
 %   based evolutionary programming," Electronics Letters, vol. 39, no. 7,
 %   pp. 631-632, 2003
+% Modified: 2009-12-15
 
 beta1 = 5;
 beta2 = 0.05;

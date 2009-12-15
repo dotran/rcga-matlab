@@ -4,6 +4,7 @@ function newpop = xArithmetic(ga)
 %   ga structure
 % Output:
 %   newpop
+% Modified: 2009-12-15
 
 scheme = 5; % Performance 5 > 3 > 4 > 1 > 2
 newpop = ga.pop;

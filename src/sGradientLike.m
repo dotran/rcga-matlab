@@ -9,6 +9,7 @@ function newpop = sGradientLike(ga,eta)
 %   [1] D. T. Pham and G. Jin, "Genetic algorithm using gradient-like
 %   reproduction operator," Electronics Letters, vol. 31, no. 18, pp.
 %   1558-1559, 1995
+% Modified: 2009-12-15
 
 bndrange = min(ga.upbnd-ga.lobnd);
 bestfit = ga.stat.bestfit;

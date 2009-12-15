@@ -4,6 +4,7 @@ function [newpop, newobj, newfit] = Elitism(ga)
 %   ga structure
 % Output:
 %   newpop
+% Modified: 2009-12-15
 
 scheme = 2; % Performance 2 > 1
 newpop = ga.pop;

@@ -4,6 +4,7 @@ function newpop = sRouletteWheel(ga)
 %   ga tructure
 % Output:
 %   newpop
+% Modified: 2009-12-15
 
 psel_vec = ga.fit/sum(ga.fit);
 cum_psel_vec = cumsum(psel_vec);

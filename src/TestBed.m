@@ -11,6 +11,7 @@ function f = TestBed(funcID, bndrequest, x) %co the can them input la dimension 
 %   IEEE Transactions on Evolutionary Computation, vol. 3, no. 2, pp.
 %   82-102, 1999
 %   [2] 
+% Modified: 2009-12-15
 
 switch funcID
     case 1 % Sphere model [1] (fmin=0)
